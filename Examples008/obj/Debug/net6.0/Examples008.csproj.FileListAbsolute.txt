@@ -1,0 +1,15 @@
+/Users/aleksandrshushpanov/Desktop/Programming/Lesson_2-12-02-2023/Examples008/obj/Debug/net6.0/Examples008.csproj.AssemblyReference.cache
+/Users/aleksandrshushpanov/Desktop/Programming/Lesson_2-12-02-2023/Examples008/obj/Debug/net6.0/Examples008.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrshushpanov/Desktop/Programming/Lesson_2-12-02-2023/Examples008/obj/Debug/net6.0/Examples008.AssemblyInfoInputs.cache
+/Users/aleksandrshushpanov/Desktop/Programming/Lesson_2-12-02-2023/Examples008/obj/Debug/net6.0/Examples008.AssemblyInfo.cs
+/Users/aleksandrshushpanov/Desktop/Programming/Lesson_2-12-02-2023/Examples008/obj/Debug/net6.0/Examples008.csproj.CoreCompileInputs.cache
+/Users/aleksandrshushpanov/Desktop/Programming/Lesson_2-12-02-2023/Examples008/bin/Debug/net6.0/Examples008
+/Users/aleksandrshushpanov/Desktop/Programming/Lesson_2-12-02-2023/Examples008/bin/Debug/net6.0/Examples008.deps.json
+/Users/aleksandrshushpanov/Desktop/Programming/Lesson_2-12-02-2023/Examples008/bin/Debug/net6.0/Examples008.runtimeconfig.json
+/Users/aleksandrshushpanov/Desktop/Programming/Lesson_2-12-02-2023/Examples008/bin/Debug/net6.0/Examples008.dll
+/Users/aleksandrshushpanov/Desktop/Programming/Lesson_2-12-02-2023/Examples008/bin/Debug/net6.0/Examples008.pdb
+/Users/aleksandrshushpanov/Desktop/Programming/Lesson_2-12-02-2023/Examples008/obj/Debug/net6.0/Examples008.dll
+/Users/aleksandrshushpanov/Desktop/Programming/Lesson_2-12-02-2023/Examples008/obj/Debug/net6.0/refint/Examples008.dll
+/Users/aleksandrshushpanov/Desktop/Programming/Lesson_2-12-02-2023/Examples008/obj/Debug/net6.0/Examples008.pdb
+/Users/aleksandrshushpanov/Desktop/Programming/Lesson_2-12-02-2023/Examples008/obj/Debug/net6.0/Examples008.genruntimeconfig.cache
+/Users/aleksandrshushpanov/Desktop/Programming/Lesson_2-12-02-2023/Examples008/obj/Debug/net6.0/ref/Examples008.dll
