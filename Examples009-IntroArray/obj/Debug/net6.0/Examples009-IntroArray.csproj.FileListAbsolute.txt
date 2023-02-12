@@ -1,0 +1,15 @@
+/Users/aleksandrshushpanov/Desktop/Programming/Lesson_2-12-02-2023/Examples009-IntroArray/obj/Debug/net6.0/Examples009-IntroArray.csproj.AssemblyReference.cache
+/Users/aleksandrshushpanov/Desktop/Programming/Lesson_2-12-02-2023/Examples009-IntroArray/obj/Debug/net6.0/Examples009-IntroArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrshushpanov/Desktop/Programming/Lesson_2-12-02-2023/Examples009-IntroArray/obj/Debug/net6.0/Examples009-IntroArray.AssemblyInfoInputs.cache
+/Users/aleksandrshushpanov/Desktop/Programming/Lesson_2-12-02-2023/Examples009-IntroArray/obj/Debug/net6.0/Examples009-IntroArray.AssemblyInfo.cs
+/Users/aleksandrshushpanov/Desktop/Programming/Lesson_2-12-02-2023/Examples009-IntroArray/obj/Debug/net6.0/Examples009-IntroArray.csproj.CoreCompileInputs.cache
+/Users/aleksandrshushpanov/Desktop/Programming/Lesson_2-12-02-2023/Examples009-IntroArray/bin/Debug/net6.0/Examples009-IntroArray
+/Users/aleksandrshushpanov/Desktop/Programming/Lesson_2-12-02-2023/Examples009-IntroArray/bin/Debug/net6.0/Examples009-IntroArray.deps.json
+/Users/aleksandrshushpanov/Desktop/Programming/Lesson_2-12-02-2023/Examples009-IntroArray/bin/Debug/net6.0/Examples009-IntroArray.runtimeconfig.json
+/Users/aleksandrshushpanov/Desktop/Programming/Lesson_2-12-02-2023/Examples009-IntroArray/bin/Debug/net6.0/Examples009-IntroArray.dll
+/Users/aleksandrshushpanov/Desktop/Programming/Lesson_2-12-02-2023/Examples009-IntroArray/bin/Debug/net6.0/Examples009-IntroArray.pdb
+/Users/aleksandrshushpanov/Desktop/Programming/Lesson_2-12-02-2023/Examples009-IntroArray/obj/Debug/net6.0/Examples009-IntroArray.dll
+/Users/aleksandrshushpanov/Desktop/Programming/Lesson_2-12-02-2023/Examples009-IntroArray/obj/Debug/net6.0/refint/Examples009-IntroArray.dll
+/Users/aleksandrshushpanov/Desktop/Programming/Lesson_2-12-02-2023/Examples009-IntroArray/obj/Debug/net6.0/Examples009-IntroArray.pdb
+/Users/aleksandrshushpanov/Desktop/Programming/Lesson_2-12-02-2023/Examples009-IntroArray/obj/Debug/net6.0/Examples009-IntroArray.genruntimeconfig.cache
+/Users/aleksandrshushpanov/Desktop/Programming/Lesson_2-12-02-2023/Examples009-IntroArray/obj/Debug/net6.0/ref/Examples009-IntroArray.dll
