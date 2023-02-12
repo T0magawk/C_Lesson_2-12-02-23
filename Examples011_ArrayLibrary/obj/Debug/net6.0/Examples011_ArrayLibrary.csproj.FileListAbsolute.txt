@@ -1,0 +1,15 @@
+/Users/aleksandrshushpanov/Desktop/Programming/Lesson_2-12-02-2023/Examples011_ArrayLibrary/obj/Debug/net6.0/Examples011_ArrayLibrary.csproj.AssemblyReference.cache
+/Users/aleksandrshushpanov/Desktop/Programming/Lesson_2-12-02-2023/Examples011_ArrayLibrary/obj/Debug/net6.0/Examples011_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrshushpanov/Desktop/Programming/Lesson_2-12-02-2023/Examples011_ArrayLibrary/obj/Debug/net6.0/Examples011_ArrayLibrary.AssemblyInfoInputs.cache
+/Users/aleksandrshushpanov/Desktop/Programming/Lesson_2-12-02-2023/Examples011_ArrayLibrary/obj/Debug/net6.0/Examples011_ArrayLibrary.AssemblyInfo.cs
+/Users/aleksandrshushpanov/Desktop/Programming/Lesson_2-12-02-2023/Examples011_ArrayLibrary/obj/Debug/net6.0/Examples011_ArrayLibrary.csproj.CoreCompileInputs.cache
+/Users/aleksandrshushpanov/Desktop/Programming/Lesson_2-12-02-2023/Examples011_ArrayLibrary/bin/Debug/net6.0/Examples011_ArrayLibrary
+/Users/aleksandrshushpanov/Desktop/Programming/Lesson_2-12-02-2023/Examples011_ArrayLibrary/bin/Debug/net6.0/Examples011_ArrayLibrary.deps.json
+/Users/aleksandrshushpanov/Desktop/Programming/Lesson_2-12-02-2023/Examples011_ArrayLibrary/bin/Debug/net6.0/Examples011_ArrayLibrary.runtimeconfig.json
+/Users/aleksandrshushpanov/Desktop/Programming/Lesson_2-12-02-2023/Examples011_ArrayLibrary/bin/Debug/net6.0/Examples011_ArrayLibrary.dll
+/Users/aleksandrshushpanov/Desktop/Programming/Lesson_2-12-02-2023/Examples011_ArrayLibrary/bin/Debug/net6.0/Examples011_ArrayLibrary.pdb
+/Users/aleksandrshushpanov/Desktop/Programming/Lesson_2-12-02-2023/Examples011_ArrayLibrary/obj/Debug/net6.0/Examples011_ArrayLibrary.dll
+/Users/aleksandrshushpanov/Desktop/Programming/Lesson_2-12-02-2023/Examples011_ArrayLibrary/obj/Debug/net6.0/refint/Examples011_ArrayLibrary.dll
+/Users/aleksandrshushpanov/Desktop/Programming/Lesson_2-12-02-2023/Examples011_ArrayLibrary/obj/Debug/net6.0/Examples011_ArrayLibrary.pdb
+/Users/aleksandrshushpanov/Desktop/Programming/Lesson_2-12-02-2023/Examples011_ArrayLibrary/obj/Debug/net6.0/Examples011_ArrayLibrary.genruntimeconfig.cache
+/Users/aleksandrshushpanov/Desktop/Programming/Lesson_2-12-02-2023/Examples011_ArrayLibrary/obj/Debug/net6.0/ref/Examples011_ArrayLibrary.dll
